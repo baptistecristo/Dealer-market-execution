@@ -1,4 +1,4 @@
-# Optimal execution in a classroom dealer market
+# Dealer market execution
 
 I wrote this note for FIN11 Trading and Market Microstructure at NHH, in autumn 2026. The course
 runs live trading sessions on a simulated market, and the note covers the fourth one. I was an
